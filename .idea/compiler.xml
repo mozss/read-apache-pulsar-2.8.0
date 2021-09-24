@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="pulsar-broker-auth-athenz" />
+        <module name="pulsar-client-admin-api" />
+        <module name="managed-ledger" />
+        <module name="pulsar-broker-shaded" />
+        <module name="kafka-connect-avro-converter-shaded" />
+        <module name="tiered-storage-file-system" />
+        <module name="bcfips-include-test" />
+        <module name="pulsar-client-admin-original" />
+        <module name="pulsar-client-messagecrypto-bc" />
+        <module name="pulsar-presto-connector-original" />
+        <module name="pulsar-client-original" />
+        <module name="pulsar-client-1x" />
+        <module name="jclouds-shaded" />
+        <module name="pulsar-presto-distribution" />
+        <module name="pulsar-websocket" />
+        <module name="pulsar-common" />
+        <module name="pulsar-broker-common" />
+        <module name="pulsar-client-admin" />
+        <module name="pulsar-client-tools-test" />
+        <module name="pulsar-broker-auth-sasl" />
+        <module name="pulsar-transaction-coordinator" />
+        <module name="pulsar-testclient" />
+        <module name="bouncy-castle-bc" />
+        <module name="pulsar-proxy" />
+        <module name="pulsar-presto-connector" />
+        <module name="pulsar-client" />
+        <module name="pulsar-zookeeper-utils" />
+        <module name="bouncy-castle-bcfips" />
+        <module name="pulsar-client-all" />
+        <module name="tiered-storage-jcloud" />
+        <module name="pulsar-config-validation" />
+        <module name="pulsar-client-api" />
+        <module name="pulsar-discovery-service" />
+        <module name="pulsar-client-tools" />
+        <module name="pulsar-transaction-common" />
+        <module name="buildtools" />
+        <module name="pulsar-broker" />
+        <module name="pulsar-client-auth-sasl" />
+        <module name="pulsar-client-auth-athenz" />
+        <module name="pulsar-package-core" />
+        <module name="pulsar-client-2x-shaded" />
+        <module name="testmocks" />
+        <module name="pulsar-metadata" />
+        <module name="pulsar-package-bookkeeper-storage" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
